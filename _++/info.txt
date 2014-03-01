@@ -1,0 +1,1 @@
+.Главния темплейт на сайта е View/Layouts/default.ctp ,на админ менюто е в View/Layouts/admin.ctp

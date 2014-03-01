@@ -1,0 +1,6 @@
+admin menu
+acc - admin
+pass - admin
+
+
+localhost/phpmyadmin/georgi
